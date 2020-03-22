@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=n
+comment1.target=int\ loop1(int)
+comment2.params=n
+comment2.target=int\ loop2(int)
+comment3.params=n
+comment3.target=int\ loop3(int)
+comment4.params=
+comment4.target=double\ loop4()
+comment5.params=
+comment5.target=double\ loop5()
+comment6.params=
+comment6.target=double\ loop6()
+comment7.params=
+comment7.target=double\ loop7()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
